@@ -11,8 +11,10 @@
 
 ### Stats
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trRiccardo&layout=compact)](https://github.com/trRiccardo/github-readme-stats)
+-->
 
-![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=trRiccardo&show_icons=true&theme=radical)
+![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=trRiccardo&show_icons=true&theme=dark)
 
 
